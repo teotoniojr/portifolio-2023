@@ -1,0 +1,20 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(2, 2, 114, 0.753);
+    color: aliceblue;
+}
+
+.botao__cabecalho{
+    width: 5em;
+    background-color: rgb(161, 204, 241);
+    margin: 1em 2em 1em 1em;
+    border-radius: 15px;
+}
+
+.imagem__cabecalho{
+    width: 5em;
+    margin: 1em 2em 1em 1em;
+    border-radius: 100%;
+    box-shadow: 2px 2px 5px black;
+}
