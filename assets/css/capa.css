@@ -1,0 +1,44 @@
+.capa{
+    background: linear-gradient(180deg, #BFDBF7 0%, #1F7A8C 99.99%, rgba(191, 219, 247, 0) 100%);
+}
+
+.capa__titulo{
+    font-family: 'Aclonica', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 22px;
+}
+
+.capa__subtitulo{
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    padding: 15px;
+}
+.capa__caixa-texto{
+    margin: 90px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    align-items: center;
+}
+.capa__imagem-texto{
+    width: 23rem;
+    border-radius: 116px;
+    grid-row: span 2;
+    margin-left: 125px;
+}
+
+.capa__texto{
+    font-family: 'Bellota';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 44px;
+}
+
+.capa__texto03{
+    margin-top: 16px;
+    grid-column: span 2;
+}
