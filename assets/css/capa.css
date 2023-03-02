@@ -1,5 +1,5 @@
-.capa{
-    background: linear-gradient(180deg, #BFDBF7 0%, #1F7A8C 99.99%, rgba(191, 219, 247, 0) 100%);
+main{
+    background-image: linear-gradient(#BFDBF7, #022B3A);
 }
 
 .capa__titulo{
